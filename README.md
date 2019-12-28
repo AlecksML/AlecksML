@@ -1,4 +1,7 @@
 # Description
+Machine Learning Projec
+Predicting car prices using regression models
+
 License
 CC0: Public Domain
 # Context
@@ -8,14 +11,14 @@ This dataset contains data for more than 9.5K cars sale in Ukraine. Most of them
 
 # Content
 Dataset contains 9576 rows and 10 variables with essential meanings:
-•	car: manufacturer brand
-•	price: seller’s price in advertisement (in USD)
-•	body: car body type
-•	mileage: as mentioned in advertisement (‘000 Km)
-•	engV: rounded engine volume (‘000 cubic cm)
-•	engType: type of fuel (“Other” in this case should be treated as NA)
-•	registration: whether car registered in Ukraine or not
-•	year: year of production
-•	model: specific model name
-•	drive: drive type
+* car: manufacturer brand
+*	price: seller’s price in advertisement (in USD)
+*	body: car body type
+*	mileage: as mentioned in advertisement (‘000 Km)
+*	engV: rounded engine volume (‘000 cubic cm)
+*	engType: type of fuel (“Other” in this case should be treated as NA)
+*	registration: whether car registered in Ukraine or not
+*	year: year of production
+*	model: specific model name
+*	drive: drive type
 
