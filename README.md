@@ -1,1 +1,1 @@
-# Using regression to predict prices of cars
+#Predicting car prices using regression model
